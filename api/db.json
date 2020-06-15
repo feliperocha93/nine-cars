@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mercedez GLA 250 2016",
+      "price": 119.9
+    },
+    {
+      "id": 2,
+      "name": "Mercedez GLA 200 2018",
+      "price": 115.0
+    },
+    {
+      "id": 3,
+      "name": "Jeep Renagade 2018",
+      "price": 69.9
+    }
+  ]
+}
