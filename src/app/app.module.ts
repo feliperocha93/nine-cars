@@ -15,6 +15,7 @@ import { MatSidenavModule } from "@angular/material/sidenav";
 import { HomeComponent } from "./views/home/home.component";
 import { ProductCrudComponent } from './views/product-crud/product-crud.component';
 import { AppRoutingModule } from './app-routing.module';
+import { RedDirective } from './directives/red.directive';
 
 @NgModule({
   declarations: [
@@ -24,6 +25,7 @@ import { AppRoutingModule } from './app-routing.module';
     NavComponent,
     HomeComponent,
     ProductCrudComponent,
+    RedDirective,
   ],
   imports: [
     BrowserModule,
