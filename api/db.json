@@ -3,27 +3,17 @@
     {
       "id": 1,
       "name": "Mercedez GLA 250 2016",
-      "price": 119.9
+      "price": "118900"
     },
     {
       "id": 2,
       "name": "Mercedez GLA 200 2018",
-      "price": 115
+      "price": "115000"
     },
     {
       "id": 3,
       "name": "Jeep Renagade 2018",
-      "price": 69.9
-    },
-    {
-      "name": "Carro teste",
-      "price": 120,
-      "id": 4
-    },
-    {
-      "name": "Ford KA 2020",
-      "price": "45000",
-      "id": 5
+      "price": "69900"
     }
   ]
 }
