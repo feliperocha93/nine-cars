@@ -5,6 +5,7 @@
 
 .header a {
   align-items: center;
+  color: #333;
   display: flex;
   text-decoration: none;
 }
