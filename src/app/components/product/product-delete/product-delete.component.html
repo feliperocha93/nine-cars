@@ -1,12 +1,12 @@
 <mat-card>
-  <mat-card-title>Editar Carro</mat-card-title>
+  <mat-card-title>Excluir Carro</mat-card-title>
 
   <form>
     <mat-form-field>
       <input
         matInput
         placeholder="Nome"
-        [(ngModel)]="product.name"
+        [value]="product.name"
         name="name"
         disabled
       />
@@ -16,7 +16,7 @@
       <input
         matInput
         placeholder="Preço (R$)"
-        [(ngModel)]="product.price"
+        [value]="product.price"
         name="price"
         disabled
       />
